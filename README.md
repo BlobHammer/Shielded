@@ -2,9 +2,7 @@
 <a href="https://discordbots.org/bot/581592320277872661" >
   <img src="https://discordbots.org/api/widget/581592320277872661.svg" alt="Shielded" />
 </a>
-<style>
 <div style="background-color:black"> </div> 
-</style>
 <p>A shielded that protects your discord server.</p>
 <table style="border:0;color:black;">
   <tbodyBGCOLOR="BLACK">
